@@ -10,7 +10,7 @@ I'm a passionate Java Web Fullstack Developer with experience in Java, Vue, Type
 * 🖥️  See my portfolio at [Nico](https://nicoyide-portafolio.netlify.app/)
 * 🌐  Read my thoughts at [Blog](https://nicolas-multilingual-blog.netlify.app/)
 * 🚀  I'm currently working on [TopSecretBussiness](https://www.iisigroup.com/)
-* 🧠  I'm currently learning some new languages like Elixir, Clojure and Italian
+* 🧠  I'm currently learning to write a 30 days Non-Stop IT Challenge for first time
 * 👥  I'm looking to contribute on Open Source and volunteer at IT meetups
 * 💬  I like to playing Chess, Boardgames( Werewolf, Citadels)
 
